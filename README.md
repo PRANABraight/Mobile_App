@@ -1,4 +1,4 @@
-# My Android Development Learning Journey 👋
+# My Android Development Learning Journey 📱
 
 Welcome to my Android development repository! This is where I document my learning progress and experiments with Android app development using Kotlin. 
 
@@ -8,8 +8,8 @@ This is my personal learning space where I explore different Android concepts, t
 
 - `1first/` - My first steps into Android development
 - `2second/` - Exploring UI and basic interactions
-- `3third/` - Working with data and more complex features
-- `4fourth/` - Advanced concepts and experiments
+- `3third/` - Working with complex UI features
+- `4fourth/` - Login with textfields, button and Toast
 
 Feel free to explore these projects and learn along with me!
 
